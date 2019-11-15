@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "date": "2019-10-23",
+      "product_id": 1,
+      "product_name": "TETRIS 8",
+      "team_id": 1,
+      "team_name": "equipe-a@aee",
+      "area": 111
+    },
+    {
+      "date": "2019-10-25",
+      "product_id": 1,
+      "product_name": "TETRIS 8",
+      "team_id": 1,
+      "team_name": "equipe-a@aee",
+      "area": 22
+    },
+    {
+      "date": "2019-10-26",
+      "product_id": 1,
+      "product_name": "TETRIS 8",
+      "team_id": 2,
+      "team_name": "equipe-b@aee",
+      "area": 30
+    },
+    {
+      "date": "2019-10-27",
+      "product_id": 1,
+      "product_name": "TETRIS 8",
+      "team_id": 1,
+      "team_name": "equipe-a@aee",
+      "area": 40
+    },
+    {
+      "date": "2019-10-30",
+      "product_id": 4,
+      "product_name": "ROCKWOOL ROCKPRIM",
+      "team_id": 3,
+      "team_name": "equipe-c@aee",
+      "area": 40
+    },
+    {
+      "date": "2019-10-27",
+      "product_id": 5,
+      "product_name": "TETRIS 8",
+      "team_id": 3,
+      "team_name": "equipe-a@aee",
+      "area": 23
+    },
+    {
+      "date": "2019-10-30",
+      "product_id": 5,
+      "product_name": "TETRIS 8",
+      "team_id": 4,
+      "team_name": "equipe-b@aee",
+      "area": 653
+    }
+  ]
+}
